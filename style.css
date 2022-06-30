@@ -220,7 +220,7 @@
                                     }
                                     
                                     aside .sidebar a:hover {
-                                        margin-left: 2rem;
+                                        margin-left: 0.25rem;
                                     }
                                     
                                     aside .sidebar .message-count {
