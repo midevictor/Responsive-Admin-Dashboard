@@ -633,6 +633,9 @@
                                             justify-content: space-between;
                                             margin-top: 1.4rem;
                                         }
+                                        aside .top .close {
+                                            margin-right: 1rem;
+                                        }
                                         aside .logo {
                                             margin-left: 0.1rem;
                                         }
